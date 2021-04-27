@@ -1,6 +1,6 @@
-# startupnamer
+## Start-Up Namer
 
-A new Flutter application.
+A Flutter application which randomly generates several startup names.
 
 ## Getting Started
 
